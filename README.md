@@ -1,4 +1,4 @@
-# 💻 | Marcos oliveira
+#  | Marcos oliveira
 
 | **`Desenvolvedor back-end`**
 
@@ -6,7 +6,7 @@ Me chamo Marcos Paulo, fiz o ensino médio integrado ao ensino técnico no Centr
 
 ---
 
-### 🤖| Linguagens e Tecnologias
+### | Linguagens e Tecnologias
 
 <img 
     align = "left"
