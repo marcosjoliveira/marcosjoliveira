@@ -42,3 +42,12 @@ Me chamo Marcos Paulo, fiz o ensino médio integrado ao ensino técnico no Centr
     width=30px
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
+
+<img
+    align = "left"
+    style = "padding-right: 10px;"
+    alt="javascript"
+    title = "Js"
+    width=30px
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/javascript/javascript-original.svg"
+/>
