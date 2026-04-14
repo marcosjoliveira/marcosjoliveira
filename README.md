@@ -7,22 +7,13 @@ Me chamo Marcos Paulo, fiz o ensino médio integrado ao ensino técnico no Centr
 ---
 
 ### | Linguagens e Tecnologias
-
-<img 
-    align = "left"
-    style = "padding-right: 10px;"
-    alt="html"
-    title = "HTML"
-    width=30px
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
 <img
     align = "left"
     style = "padding-right: 10px;"
-    alt="css"
-    title = "CSS"
+    alt="react"
+    title = "React"
     width=30px
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/react.svg"
 />
 
 <img
