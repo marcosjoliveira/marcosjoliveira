@@ -13,7 +13,7 @@ Me chamo Marcos Paulo, fiz o ensino médio integrado ao ensino técnico no Centr
     alt="react"
     title = "React"
     width=30px
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/react.svg"
+    src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg"
 />
 
 <img
