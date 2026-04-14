@@ -29,13 +29,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| App gerenciador de tarefas [link](https://github.com/marcosjoliveira/task-manager) | Um aplicativo completo de gerenciamento de tarefas desenvolvido com foco em produtividade, organização e simplicidade. | Tecnologias utilizadas - Frontend: React + Vite - Backend: Node.js - Banco de dados: SQLite - Outros: ESLint, API REST. |
+| App gerenciador de tarefas [link](https://github.com/marcosjoliveira/task-manager) | Um aplicativo completo de gerenciamento de tarefas desenvolvido com foco em produtividade, organização e simplicidade. | Frontend: React + Vite - Backend: Node.js - Banco de dados: SQLite - Outros: ESLint, API REST. |
 | Bot de promocoes [link](https://github.com/marcosjoliveira/bot-promocoes) | Busca promocoes nas principais lojas do brasil e divulga em grupos de whatsapp separados por nicho. | Node.js |
 
 ---
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link) www.linkedin.com/in/marcosjoliveira6240
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](link)   www.linkedin.com/in/marcosjoliveira6240
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcosjardim.oliveira@gmail.com)
